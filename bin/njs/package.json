@@ -14,7 +14,7 @@
     "neovim": "^4.10.1",
     "nodemon": "^3.0.1",
     "npkill": "^0.11.3",
-    "npm-check-updates": "^16.14.4",
+    "npm-check-updates": "^17.1.11",
     "serve": "^14.2.1",
     "svgo": "^3.0.2",
     "ts-node": "^10.9.1",
