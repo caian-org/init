@@ -21,7 +21,7 @@
     "typescript": "^5.2.2",
     "winglang": "^0.33.11",
     "yarn": "^1.22.19",
-    "zx": "^7.2.3"
+    "zx": "^8.2.4"
   },
   "devDependencies": {
     "@types/node": "^20.7.0"
